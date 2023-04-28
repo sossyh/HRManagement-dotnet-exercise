@@ -1,0 +1,464 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.API\\HR.LeaveManagement.API.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.API\\HR.LeaveManagement.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.API\\HR.LeaveManagement.API.csproj",
+        "projectName": "HR.LeaveManagement.API",
+        "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.API\\HR.LeaveManagement.API.csproj",
+        "packagesPath": "C:\\Users\\Sosna W. Achamyeleh\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sosna W. Achamyeleh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+                "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+              },
+              "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj": {
+                "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj"
+              },
+              "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj"
+              },
+              "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj": {
+                "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+        "projectName": "HR.LeaveManagement.Application",
+        "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\Sosna W. Achamyeleh\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sosna W. Achamyeleh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+                "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectName": "HR.LeaveManagement.Domain",
+        "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Sosna W. Achamyeleh\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sosna W. Achamyeleh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
+        "projectName": "HR.LeaveManagement.Identity",
+        "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
+        "packagesPath": "C:\\Users\\Sosna W. Achamyeleh\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sosna W. Achamyeleh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+                "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+        "projectName": "HR.LeaveManagement.Infrastructure",
+        "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Sosna W. Achamyeleh\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sosna W. Achamyeleh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+                "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.27.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
+        "projectName": "HR.LeaveManagement.Persistence",
+        "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Sosna W. Achamyeleh\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sosna W. Achamyeleh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+                "projectPath": "c:\\Users\\Sosna W. Achamyeleh\\Desktop\\HR.LeaveManagement.NET6\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
