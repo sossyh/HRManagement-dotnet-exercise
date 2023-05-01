@@ -1,0 +1,17 @@
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Persistence.deps.json
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Persistence.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Persistence.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Application.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Domain.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Application.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.AssemblyInfo.cs
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.csproj.CopyComplete
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\obj\Debug\net6.0\refint\HR.LeaveManagement.Persistence.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Persistence\obj\Debug\net6.0\ref\HR.LeaveManagement.Persistence.dll

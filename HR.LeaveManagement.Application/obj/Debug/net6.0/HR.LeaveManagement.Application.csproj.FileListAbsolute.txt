@@ -1,0 +1,15 @@
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Application.deps.json
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Application.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Application.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Domain.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.csproj.CopyComplete
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\obj\Debug\net6.0\refint\HR.LeaveManagement.Application.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Application\obj\Debug\net6.0\ref\HR.LeaveManagement.Application.dll

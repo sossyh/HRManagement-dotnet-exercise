@@ -1,0 +1,12 @@
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.deps.json
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Domain\obj\Debug\net6.0\refint\HR.LeaveManagement.Domain.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Domain\obj\Debug\net6.0\ref\HR.LeaveManagement.Domain.dll

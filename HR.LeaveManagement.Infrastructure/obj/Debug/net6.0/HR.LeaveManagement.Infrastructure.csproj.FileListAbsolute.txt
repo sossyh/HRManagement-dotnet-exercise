@@ -1,0 +1,17 @@
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Infrastructure.deps.json
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Infrastructure.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Infrastructure.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Application.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Domain.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Application.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\bin\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.csproj.CopyComplete
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\refint\HR.LeaveManagement.Infrastructure.dll
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\HR.LeaveManagement.Infrastructure.pdb
+c:\Users\Sosna W. Achamyeleh\Desktop\HR.LeaveManagement.NET6\HR.LeaveManagement.Infrastructure\obj\Debug\net6.0\ref\HR.LeaveManagement.Infrastructure.dll
